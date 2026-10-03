@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 650" role="img" aria-labelledby="t d">
+<title id="t">Transfer-regime AUPRC summary</title>
+<desc id="d">Leave-one-event-out and grouped-spatial mean AUPRC for four predictor regimes.</desc>
+<rect width="1320" height="650" rx="26" fill="#f8fafc"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="70" y="68" font-size="31" font-weight="700" fill="#0f172a">Transfer regime changes the scientific conclusion</text>
+<text x="70" y="104" font-size="18" fill="#64748b">Mean AUPRC from frozen P10 V10.1 evidence · higher is better</text>
+<g transform="translate(70 155)">
+<rect width="565" height="405" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="28" y="45" font-size="23" font-weight="700" fill="#0f172a">Leave-one-event-out</text>
+<text x="28" y="72" font-size="15" fill="#64748b">New flood event on a substantially recurring road system</text>
+<g transform="translate(30 110)" font-size="15">
+<text x="0" y="28" fill="#334155">M1 geography</text><rect x="155" y="8" width="326" height="27" rx="7" fill="#0ea5e9"/><text x="490" y="28" fill="#0f172a" font-weight="700">0.163</text>
+<text x="0" y="91" fill="#334155">M2 road/network</text><rect x="155" y="71" width="168" height="27" rx="7" fill="#14b8a6"/><text x="332" y="91" fill="#0f172a" font-weight="700">0.084</text>
+<text x="0" y="154" fill="#334155">M3 hazard</text><rect x="155" y="134" width="39" height="27" rx="7" fill="#8b5cf6"/><text x="203" y="154" fill="#0f172a" font-weight="700">0.020</text>
+<text x="0" y="217" fill="#334155">M4 combined</text><rect x="155" y="197" width="59" height="27" rx="7" fill="#f59e0b"/><text x="223" y="217" fill="#0f172a" font-weight="700">0.030</text>
+</g>
+<text x="28" y="365" font-size="16" fill="#075985" font-weight="700">Geography is the strongest diagnostic under event transfer.</text>
+</g>
+<g transform="translate(685 155)">
+<rect width="565" height="405" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="28" y="45" font-size="23" font-weight="700" fill="#0f172a">Grouped spatial validation</text>
+<text x="28" y="72" font-size="15" fill="#64748b">Five-fold retraining over 135 held-out spatial blocks</text>
+<g transform="translate(30 110)" font-size="15">
+<text x="0" y="28" fill="#334155">M1 geography</text><rect x="155" y="8" width="232" height="27" rx="7" fill="#0ea5e9"/><text x="396" y="28" fill="#0f172a" font-weight="700">0.116</text>
+<text x="0" y="91" fill="#334155">M2 road/network</text><rect x="155" y="71" width="134" height="27" rx="7" fill="#14b8a6"/><text x="298" y="91" fill="#0f172a" font-weight="700">0.067</text>
+<text x="0" y="154" fill="#334155">M3 hazard</text><rect x="155" y="134" width="321" height="27" rx="7" fill="#8b5cf6"/><text x="485" y="154" fill="#0f172a" font-weight="700">0.161</text>
+<text x="0" y="217" fill="#334155">M4 combined</text><rect x="155" y="197" width="294" height="27" rx="7" fill="#f59e0b"/><text x="458" y="217" fill="#0f172a" font-weight="700">0.147</text>
+</g>
+<text x="28" y="365" font-size="16" fill="#5b21b6" font-weight="700">Hazard information is much stronger under held-out geography.</text>
+</g>
+<text x="70" y="618" font-size="16" fill="#475569">The benchmark reports both transfer definitions instead of collapsing them into one “cross-validation” result.</text>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 610" role="img" aria-labelledby="t d">
+<title id="t">Ten percent inspection-budget comparison</title>
+<desc id="d">Proposed score versus strongest baseline under unit and base-plus-length costs.</desc>
+<rect width="1320" height="610" rx="26" fill="#f8fafc"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<text x="70" y="68" font-size="31" font-weight="700" fill="#0f172a">10% inspection budget · no resolved superiority</text>
+<text x="70" y="104" font-size="18" fill="#64748b">Consequence-weighted utility capture · four-event bootstrap intervals cross zero</text>
+
+<g transform="translate(70 155)">
+<rect width="565" height="345" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="30" y="46" font-size="23" font-weight="700" fill="#0f172a">Unit cost</text>
+<text x="30" y="75" font-size="16" fill="#64748b">Proposed versus strongest baseline</text>
+<rect x="30" y="125" width="460" height="42" rx="10" fill="#e2e8f0"/>
+<rect x="30" y="125" width="424" height="42" rx="10" fill="#0f766e"/>
+<text x="43" y="153" font-size="17" fill="white" font-weight="700">Proposed · 0.369</text>
+<rect x="30" y="195" width="460" height="42" rx="10" fill="#e2e8f0"/>
+<rect x="30" y="195" width="406" height="42" rx="10" fill="#2563eb"/>
+<text x="43" y="223" font-size="17" fill="white" font-weight="700">Risk · 0.353</text>
+<text x="30" y="286" font-size="17" fill="#334155">Difference: +0.016</text>
+<text x="30" y="315" font-size="17" fill="#334155">95% event-bootstrap CI: [-0.051, 0.083]</text>
+</g>
+
+<g transform="translate(685 155)">
+<rect width="565" height="345" rx="22" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="30" y="46" font-size="23" font-weight="700" fill="#0f172a">Base-plus-length cost</text>
+<text x="30" y="75" font-size="16" fill="#64748b">Corrected score/cost-density selection</text>
+<rect x="30" y="125" width="460" height="42" rx="10" fill="#e2e8f0"/>
+<rect x="30" y="125" width="460" height="42" rx="10" fill="#2563eb"/>
+<text x="43" y="153" font-size="17" fill="white" font-weight="700">Bridge · 0.1044</text>
+<rect x="30" y="195" width="460" height="42" rx="10" fill="#e2e8f0"/>
+<rect x="30" y="195" width="454" height="42" rx="10" fill="#0f766e"/>
+<text x="43" y="223" font-size="17" fill="white" font-weight="700">Proposed · 0.1031</text>
+<text x="30" y="286" font-size="17" fill="#334155">Difference: -0.0013</text>
+<text x="30" y="315" font-size="17" fill="#334155">95% event-bootstrap CI: [-0.0766, 0.1105]</text>
+</g>
+
+<rect x="70" y="530" width="1180" height="48" rx="14" fill="#fff7ed" stroke="#fdba74"/>
+<text x="660" y="561" text-anchor="middle" font-size="18" fill="#9a3412" font-weight="700">Frozen conclusion: the evidence does not support a statistically resolved proposed-policy advantage.</text>
+</g>
+</svg>
