@@ -1,0 +1,21 @@
+{
+  "time": "2026-08-20T12:00:34+05:30",
+  "bootstrap_resamples": 5000,
+  "cost_models": {
+    "unit": {
+      "best_baseline": "risk",
+      "proposed_mean": 0.3689707702575887,
+      "best_baseline_mean": 0.3529367395340928,
+      "difference_mean": 0.01603403072349581,
+      "event_bootstrap_95ci": [-0.051289572959478946, 0.08335763440647057]
+    },
+    "length": {
+      "best_baseline": "bridge",
+      "proposed_mean": 0.10311930570476481,
+      "best_baseline_mean": 0.10438954034635806,
+      "difference_mean": -0.0012702346415932528,
+      "event_bootstrap_95ci": [-0.07660023925001594, 0.11049205152359315]
+    }
+  },
+  "caution": "Only four independent events; event bootstrap is descriptive uncertainty, not broad geographic external validation."
+}

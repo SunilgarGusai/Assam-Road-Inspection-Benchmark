@@ -1,0 +1,21 @@
+{
+  "version": "V9.5.3_AUDIT_ONLY_CACHED",
+  "scientific_outputs_modified": false,
+  "p0_p4_modified": false,
+  "snapshot_feature_count": 17443,
+  "snapshot_unique_way_ids": 17443,
+  "grid_4x4_candidate_ids": 20000,
+  "grid_5x3_candidate_ids": 20000,
+  "grid_4x4_drivable_ids": 17512,
+  "grid_5x3_drivable_ids": 17512,
+  "grid_candidate_sets_equal": true,
+  "candidate_symmetric_difference_count": 0,
+  "v9_4_expected_drivable_ways": 17443,
+  "prior_recovery_grid_4x4": 1.0,
+  "prior_recovery_grid_5x3": 1.0,
+  "candidate_4x4_sha256": "d0be756878ac98ef84020cbadd58f0be0def01c8976eb18ae57a2e991e8f0401",
+  "candidate_5x3_sha256": "d0be756878ac98ef84020cbadd58f0be0def01c8976eb18ae57a2e991e8f0401",
+  "prior_snapshot_id_sha256": "d046c8cf8e78e1191c537a25c693bf6049b424971d2968213ceebc122dacc337",
+  "verdict": "PASS_INDEPENDENT_2020_COMPLETENESS_AUDIT",
+  "pass_gate": true
+}

@@ -1,0 +1,17 @@
+{
+  "v10_runtime_was_real_computation": true,
+  "v10_length_cost_selection_bug_confirmed": true,
+  "v10_1_cost_density_correction_completed": true,
+  "true_spatial_grouped_retraining_completed": true,
+  "spatial_blocks": 135,
+  "spatial_M1_mean_AUPRC": 0.1161422176613347,
+  "spatial_M2_mean_AUPRC": 0.06676324985054975,
+  "spatial_M3_mean_AUPRC": 0.16066084940079212,
+  "spatial_M4_mean_AUPRC": 0.14737260687156145,
+  "mean_LOEO_osm_row_identity_overlap": 0.6950127926942564,
+  "all_M4_probabilities_below_half": true,
+  "risk_uncertainty_rank_redundant_all_events": true,
+  "sparse_replicates_per_fraction": 20,
+  "unit_cost_proposed_superiority_supported": false,
+  "length_cost_proposed_superiority_supported": false
+}
