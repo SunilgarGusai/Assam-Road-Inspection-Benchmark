@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 430" role="img" aria-labelledby="t d">
+<title id="t">Assam benchmark workflow</title>
+<desc id="d">Four-stage workflow from flood evidence and historical roads to transfer validation and budgeted inspection.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#64748b"/></marker></defs>
+<rect width="1500" height="430" rx="22" fill="#f8fafc"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="60" y="56" font-size="28" font-weight="700" fill="#0f172a">Leakage-controlled calculation path</text>
+  <text x="60" y="87" font-size="17" fill="#64748b">Targets, predictors, transfer tests and decision evaluation remain explicitly separated.</text>
+  <rect x="55" y="125" width="300" height="205" rx="24" fill="#e0f2fe" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="405" y="125" width="300" height="205" rx="24" fill="#ecfeff" stroke="#14b8a6" stroke-width="2"/>
+  <rect x="755" y="125" width="300" height="205" rx="24" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="1105" y="125" width="340" height="205" rx="24" fill="#fff7ed" stroke="#f59e0b" stroke-width="2"/>
+  <g fill="#0f172a" font-size="22" font-weight="700">
+    <text x="85" y="170">1 · Flood evidence</text><text x="435" y="170">2 · Pre-event road state</text><text x="785" y="170">3 · Transfer validation</text><text x="1135" y="170">4 · Budgeted inspection</text>
+  </g>
+  <g fill="#334155" font-size="16">
+    <text x="85" y="207">Sentinel-1 retrospective masks</text><text x="85" y="236">Strict / medium / liberal targets</text><text x="85" y="265">No road features used in P3</text>
+    <text x="435" y="207">Dated Geofabrik / OSM snapshots</text><text x="435" y="236">Road + terrain + rainfall features</text><text x="435" y="265">Coordinates isolated to M1</text>
+    <text x="785" y="207">Leave-one-event-out</text><text x="785" y="236">5-fold grouped spatial CV</text><text x="785" y="265">Identity + calibration audits</text>
+    <text x="1135" y="207">8 ranking policies</text><text x="1135" y="236">Unit + base-plus-length costs</text><text x="1135" y="265">Sparse hazard stress tests</text><text x="1135" y="294">5,000 event bootstrap resamples</text>
+  </g>
+  <g stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"><path d="M355 227 H395"/><path d="M705 227 H745"/><path d="M1055 227 H1095"/></g>
+  <text x="55" y="382" font-size="17" fill="#475569">Scientific conclusion is frozen before manuscript-facing packaging: no post-hoc retuning to manufacture a stronger policy result.</text>
+</g>
+</svg>
