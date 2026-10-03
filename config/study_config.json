@@ -1,0 +1,21 @@
+{
+  "study": "Assam Road Inspection Benchmark",
+  "scientific_freeze": "P10 V10.1",
+  "random_seed": 20260820,
+  "events": [
+    {"id":"ASSAM_2020_MONSOON","event_date":"2020-07-18","road_snapshot":"2020-01-01"},
+    {"id":"ASSAM_2021_AUG","event_date":"2021-08-28","road_snapshot":"2021-01-01"},
+    {"id":"ASSAM_2022_JUNE","event_date":"2022-06-16","road_snapshot":"2022-01-01"},
+    {"id":"ASSAM_2023_JUNE","event_date":"2023-06-22","road_snapshot":"2023-01-01"}
+  ],
+  "primary_target": "medium Sentinel-1 flood-mask road exposure fraction >=10% within valid SAR support",
+  "predictor_regimes": ["M1_geography_only","M2_road_network_environment","M3_dynamic_hazard_only","M4_combined"],
+  "inspection_policies": ["random","rainfall","bridge","betweenness","consequence","risk","uncertainty","proposed"],
+  "budgets": [0.01,0.025,0.05,0.10,0.15,0.20],
+  "cost_models": ["unit","base_plus_length"],
+  "spatial_block_degrees": 0.25,
+  "spatial_folds": 5,
+  "sparse_observation_fractions": [0.10,0.30,0.50,0.70,0.90],
+  "sparse_replicates_per_fraction": 20,
+  "bootstrap_resamples": 5000
+}
