@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated study and this repository."
+title: "Assam Road Inspection Benchmark"
+type: software
+version: "1.0.0-repository"
+date-released: 2026-10-03
+repository-code: "https://github.com/SunilgarGusai/Assam-Road-Inspection-Benchmark"
+authors:
+  - family-names: "Gusai"
+    given-names: "Sunilgar L."
+    orcid: "https://orcid.org/0009-0004-0739-4812"
+  - family-names: "Jadeja"
+    given-names: "Manoharsinh R."
+    orcid: "https://orcid.org/0000-0003-1833-4730"
