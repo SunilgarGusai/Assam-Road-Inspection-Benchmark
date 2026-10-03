@@ -96,6 +96,20 @@ See [`docs/METHOD_PROTOCOL.md`](docs/METHOD_PROTOCOL.md) and [`docs/LEAKAGE_CONT
 
 The four-event bootstrap intervals for the proposed-minus-best-baseline difference cross zero under both cost models. The repository therefore preserves the conclusion **without a superiority claim**.
 
+### Transfer-regime snapshot
+
+<p align="center">
+  <img src="docs/assets/transfer-regime-summary.svg" alt="Leave-one-event-out and grouped-spatial AUPRC summary" width="100%" />
+</p>
+
+### Decision-policy snapshot
+
+<p align="center">
+  <img src="docs/assets/policy-10pct-summary.svg" alt="Ten-percent inspection-budget comparison" width="100%" />
+</p>
+
+The visuals are generated directly from the committed frozen summary values and are intended for repository navigation, not as substitutes for the machine-readable evidence.
+
 ## Calculations
 
 The principal equations and fixed design choices are documented in [`docs/CALCULATIONS.md`](docs/CALCULATIONS.md).
@@ -169,7 +183,8 @@ See [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md).
 │   ├── LEAKAGE_CONTROL.md      # predictor/target firewall
 │   ├── METHOD_PROTOCOL.md      # public computational protocol
 │   ├── REPRODUCIBILITY.md      # reproducibility boundary and verification
-│   └── RESULTS_FREEZE.md       # scientific freeze statement
+│   ├── RESULTS_FREEZE.md       # scientific freeze statement
+│   └── CORRECTIVE_VALIDATION.md # V10.1 correction/audit rationale
 ├── results/frozen/             # machine-readable manuscript-supporting results
 ├── audits/                     # selected independent audit evidence
 ├── scripts/                    # validation and result-summary helpers
