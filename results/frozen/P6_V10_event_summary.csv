@@ -1,0 +1,5 @@
+time,event_id,topological_edge_rows,nodes_simple_graph,simple_edges,bridges_simple_graph,articulation_nodes,p4_nodes,p4_structural_bridge_edges,approx_betweenness_sources,hard_gate_pass
+2026-08-20T11:16:03+05:30,ASSAM_2020_MONSOON,37474,30501,36704,10364,8578,30501,10201,96,True
+2026-08-20T11:16:31+05:30,ASSAM_2021_AUG,55933,46085,54914,16675,13244,46085,16485,96,True
+2026-08-20T11:17:02+05:30,ASSAM_2022_JUNE,58155,47552,57438,16465,13615,47552,16272,96,True
+2026-08-20T11:18:07+05:30,ASSAM_2023_JUNE,106998,87935,105951,30879,25842,87935,30621,96,True
