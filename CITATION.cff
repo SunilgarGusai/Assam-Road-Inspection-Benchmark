@@ -3,8 +3,8 @@ message: "If you use this repository, please cite the associated study and this 
 title: "Assam Road Inspection Benchmark"
 type: software
 version: "1.0.0-repository"
-date-released: 2026-10-03
 repository-code: "https://github.com/SunilgarGusai/Assam-Road-Inspection-Benchmark"
+license: MIT
 authors:
   - family-names: "Gusai"
     given-names: "Sunilgar L."
@@ -12,3 +12,25 @@ authors:
   - family-names: "Jadeja"
     given-names: "Manoharsinh R."
     orcid: "https://orcid.org/0000-0003-1833-4730"
+abstract: "Frozen reproducibility benchmark for leakage-controlled, multi-event flood-road inspection prioritisation in Assam, India, including unseen-event and held-out-geography validation under sparse hazard observations and inspection-budget constraints."
+keywords:
+  - road networks
+  - flood risk
+  - disaster risk reduction
+  - spatial validation
+  - network science
+  - machine learning
+  - remote sensing
+  - Assam
+  - reproducible research
+preferred-citation:
+  type: article
+  title: "Budgeted Road Inspection Prioritisation under Sparse Flood Observations: A Leakage-Safe Multi-Event Benchmark in Assam, India"
+  authors:
+    - family-names: "Gusai"
+      given-names: "Sunilgar L."
+      orcid: "https://orcid.org/0009-0004-0739-4812"
+    - family-names: "Jadeja"
+      given-names: "Manoharsinh R."
+      orcid: "https://orcid.org/0000-0003-1833-4730"
+  notes: "Associated manuscript is being prepared for journal communication. Final bibliographic metadata and DOI will be added after publication."
