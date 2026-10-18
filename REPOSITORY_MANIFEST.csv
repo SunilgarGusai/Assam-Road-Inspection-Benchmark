@@ -34,3 +34,5 @@ LICENSE,MIT license for original repository code and documentation
 THIRD_PARTY_LICENSES.md,External-data licensing boundary
 environment.yml,Reviewer-facing validation environment
 requirements.txt,Reviewer-facing pip dependencies
+.github/workflows/render-repository-banner.yml,Reproducible export of animated repository artwork
+docs/assets/repository-banner.gif,Animated visual cover generated from SVG master
