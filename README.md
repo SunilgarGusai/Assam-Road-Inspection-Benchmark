@@ -225,10 +225,10 @@ See [`docs/DATA_SOURCE_MANIFEST.md`](docs/DATA_SOURCE_MANIFEST.md) and [`THIRD_P
 
 ## Authors
 
-- **Sunilgar L. Gusai** — corresponding author, Faculty of Computer Applications, Marwadi University  
-  ORCID: [0009-0004-0739-4812](https://orcid.org/0009-0004-0739-4812)
-- **Manoharsinh R. Jadeja** — Department of Artificial Intelligence, Machine Learning and Data Science, Marwadi University  
-  ORCID: [0000-0003-1833-4730](https://orcid.org/0000-0003-1833-4730)
+- **Sunilgar L. Gusai** — corresponding author, Faculty of Computer Applications, Marwadi University, Rajkot, India. Ph.D. in mathematics, Saurashtra University (2026); Assistant Professor and Program Head for Data Science Programs. Research interests include spectral graph theory, graph energy measures, network resilience, data-driven decision support, quantitative structure–property relationships, and reproducible computational evaluation. ORCID: [0009-0004-0739-4812](https://orcid.org/0009-0004-0739-4812).
+- **Manoharsinh R. Jadeja** — Department of Artificial Intelligence, Machine Learning and Data Science, Marwadi University, Rajkot, India. Ph.D., Saurashtra University (2023), with doctoral research in algebraic graph theory; Assistant Professor. Research interests include algebraic graph theory, graph spectra, graph invariants, mathematical modeling, and graph-theoretic methods for complex networks and computational problems. ORCID: [0000-0003-1833-4730](https://orcid.org/0000-0003-1833-4730).
+
+Both authors contributed equally to the associated PAPER004 study. These biographical summaries are aligned with the author-approved IEEE Access manuscript biographies.
 
 ## Citation
 
