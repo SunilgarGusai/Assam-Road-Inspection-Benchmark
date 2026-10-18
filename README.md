@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/repository-banner.svg" alt="Assam Road Inspection Benchmark" width="100%" />
+  <img src="docs/assets/repository-banner.gif" alt="Assam Road Inspection Benchmark" width="100%" />
 </p>
 
 <h1 align="center">Assam Road Inspection Benchmark</h1>
